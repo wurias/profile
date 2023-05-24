@@ -1,1 +1,2 @@
-# profile
+# wurias|Dev
+Estou orgulhoso de compartilhar meu progresso neste repositório, e espero que você possa ter uma visão abrangente da minha paixão pelo meu trabalho e meu compromisso com a excelência. Fique à vontade para explorar e conhecer mais sobre minha carreira e meu estilo de trabalho. Estou ansioso para colaborar com você em futuros projetos!
