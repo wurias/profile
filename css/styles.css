@@ -10935,16 +10935,18 @@ p.lead {
     top: -5px;
     left: -5px;
     border-radius: 8px;
-    background: linear-gradient(50deg,
-      #ffff00, #00ff00, #0099ff, #001aff, #a200ff, #ff0055, #ff0000, 
-      #ff0055, #ff0000, #ffff00, #00ff00, #0099ff, #001aff, #a200ff
+    background: linear-gradient(45deg,
+    #8ECAE6, #219EBC, #023047, #FFB703, #FB8500,
+    #8ECAE6, #219EBC, #023047, #FFB703, #FB8500,
+    #8ECAE6, #219EBC, #023047, #FFB703, #FB8500,
+    #8ECAE6, #219EBC, #023047, #FFB703, #FB8500
       );
     background-size: 400%;
     animation: border 22s linear infinite;
   }
 
   .border-animation::after {
-    filter: blur(6px);
+    filter: blur(10px);
 }
 
 @keyframes border {
@@ -10953,7 +10955,7 @@ p.lead {
   }
 
   50% {
-      background-position: 300%;
+      background-position: 200%;
   }
 }
 
